@@ -1,0 +1,37 @@
+RegisterLuaAnimation('Test', {
+	FrameData = {
+		{
+			BoneInfo = {
+				['ValveBiped.Bip01_Head1'] = {
+					RR = 66.965701573029
+				}
+			},
+			FrameRate = 1
+		},
+		{
+			BoneInfo = {
+				['ValveBiped.Bip01_Head1'] = {
+					RR = 157.41861547775
+				}
+			},
+			FrameRate = 1
+		},
+		{
+			BoneInfo = {
+				['ValveBiped.Bip01_Head1'] = {
+					RR = 247.58955024913
+				}
+			},
+			FrameRate = 1
+		},
+		{
+			BoneInfo = {
+				['ValveBiped.Bip01_Head1'] = {
+					RR = 360
+				}
+			},
+			FrameRate = 1
+		}
+	},
+	Type = TYPE_GESTURE
+})
